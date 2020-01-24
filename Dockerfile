@@ -6,4 +6,4 @@ COPY . .
 RUN npm run build
 
 FROM ngnix
-COPY --from = builder /app/build /usr/share/ngnix/html
+COPY --from=builder /app/build /usr/share/ngnix/html
