@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![travis-build-test](https://travis-ci.com/nishantviswanadha/docker-react.svg?branch=master)](https://travis-ci.com/nishantviswanadha/docker-react.svg?branch=master)
 
 ## Available Scripts
 
